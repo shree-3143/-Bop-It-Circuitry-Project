@@ -1,1 +1,1 @@
-# "Bop It!" Game - Circuitry Project
+# Bop It! Game - Circuitry Project
