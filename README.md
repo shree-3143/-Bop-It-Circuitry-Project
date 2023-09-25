@@ -1,1 +1,1 @@
-# -Bop-It-Circuitry-Project
+# Bop-It!-Game-Circuitry-Project
